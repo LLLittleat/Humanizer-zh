@@ -1,4 +1,5 @@
 # Humanizer-zh: AI 写作去痕工具（中文版）
+test
 
 > **声明：**
 > - 本项目的核心文件翻译自 [blader/humanizer](https://github.com/blader/humanizer/tree/main)
